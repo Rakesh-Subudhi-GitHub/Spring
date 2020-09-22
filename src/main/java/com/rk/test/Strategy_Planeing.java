@@ -22,7 +22,7 @@ public class Strategy_Planeing {
 		
 		//invoke the method
 		System.out.println(fpkt.shopping(new String[] {"pepet","mask","globs"},new float[] {100,200,20}));
-		
+		System.out.println();
 		//close Container
 		((AbstractApplicationContext) ctx).close();
 		
